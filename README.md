@@ -208,7 +208,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Our Team:
 1. Aji Muhammad Zapar - aji.muhammad.tif18@polban.ac.id
 2. Riyanzani Anggara Putra - riyanzani.anggara.tif418@polban.ac.id
 3. Shinta Nurkaafi - shinta.nurkaafi.tif419@polban.ac.id

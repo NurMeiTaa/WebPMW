@@ -209,10 +209,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Our Team:
-1. Aji Muhammad Zapar
-2.  - [@your_twitter](https://twitter.com/your_username) - email@example.com
+1. Aji Muhammad Zapar - aji.muhammad.tif18@polban.ac.id
+2. Riyanzani Anggara Putra - riyanzani.anggara.tif418@polban.ac.id
+3. Shinta Nurkaafi - shinta.nurkaafi.tif419@polban.ac.id
+4. Wanda Nuriza Riyana - wanda.nuriza.tif20@polban.ac.id
+5. Widya Nurhikmah - widya.nurhikmah.mas18@polban.ac.id
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [http://pmw.kemahasiswaan.polban.ac.id/]
+<!-- (https://github.com/your_username/repo_name) -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

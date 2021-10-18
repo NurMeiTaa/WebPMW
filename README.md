@@ -215,8 +215,7 @@ Our Team:
 4. Wanda Nuriza Riyana - wanda.nuriza.tif20@polban.ac.id
 5. Widya Nurhikmah - widya.nurhikmah.mas18@polban.ac.id
 
-Project Link: [http://pmw.kemahasiswaan.polban.ac.id/]
-<!-- (https://github.com/your_username/repo_name) -->
+Project Link: [http://pmw.kemahasiswaan.polban.ac.id/](http://pmw.kemahasiswaan.polban.ac.id/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
